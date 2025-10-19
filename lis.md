@@ -21,7 +21,7 @@ All redistribution or derivative works are subject to the following non-negotiab
    * Any distribution must include clear, conspicuous attribution to the original authors:
 
      ```
-     Flow AI Model by [Your Name/Organization]
+     Flow AI Model by fisherman-AI
      ```
    * Attribution cannot be removed, obscured, or altered.
 
